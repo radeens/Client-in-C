@@ -2,7 +2,6 @@
  * Author : Deepak Luitel
  * Echo Client
  * Computer Networks
- * University of Maryland
  * Citations:
  *	1. GNU.org and Man7.org
  *****************************************************************************/
