@@ -89,6 +89,6 @@ int main(int argc, char *argv[]){
 	close(socketfd);
 
 /*exit the program*/
-exit(0);
+return 0 ; //exit(0);
 }
 
